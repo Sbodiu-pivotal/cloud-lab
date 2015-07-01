@@ -1,0 +1,37 @@
+= Cloud Native Application Architectures with Spring and Cloud Foundry
+
+Student Guide
+
+== Instructor Details
+
+Sergiu Bodiu (@dreamsergiu) +
+Senior Solution Architect - Pivotal +
+sbodiu@pivotal.io
+
+
+== Schedule
+
+This is _loose_ schedule for the two days. We will adjust as necessary based on our pace through the material.
+
+The lectures for this class are intentionally very light and are only intended to set the stage for the hands-on labs.
+The overwhelming majority of our time will be spent engaging with the technology directly!
+
+NOTE: We will be updating the course materials throughout the class. You will need to have the materials cloned and track the *master* branch.
+
+This can be accomplished as follows:
+
+----
+$ git clone https://github.com/sbodiu-pivotal/cloud-lab
+----
+
+=== Day One
+
+10:00 AM - 12:00 PM:: *Session 1:* _Microservices Overview_
+12:00 PM - 1:00 PM:: Lunch
+1:00 PM - 3:00 PM:: *Session 2:* _Twelve-Factor Apps with Cloud Foundry_
+
+=== Day Two
+
+10:00 AM - 12:00 PM:: *Session 3:* _Enable Continuous Delivery with Cloud Foundry_
+12:00 PM - 1:00 PM:: Lunch
+1:00 PM - 4:00 PM:: *Session 4:* _PaaS Application Architecture Patterns_

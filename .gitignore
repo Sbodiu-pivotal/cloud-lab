@@ -6,9 +6,13 @@ target
 .classpath
 .project
 .settings
+ignore
+gradle
+build
+.gradle
 
 # Package Files #
-#*.jar
-#*.war
-#*.ear
+*.jar
+*.war
+*.ear
 
